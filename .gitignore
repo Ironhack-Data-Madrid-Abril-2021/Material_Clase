@@ -15,4 +15,9 @@ selenium/
 *.hdf5
 *.h5
 *.parquet
+*.dbf
+*.lyr
+*.prj
+*.shp
+*.shx
 
